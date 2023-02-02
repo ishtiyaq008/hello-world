@@ -42,22 +42,22 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                <ul class="navbar-nav mr-auto">
                   <li class="nav-item active">
-                     <a class="nav-link" href="index.html">Home</a>
+                     <a class="nav-link" href="index.jsp">Home</a>
                   </li>
                   <li class="nav-item">
-                     <a class="nav-link" href="about.html">About</a>
+                     <a class="nav-link" href="about.jsp">About</a>
                   </li>
                   <li class="nav-item">
-                     <a class="nav-link" href="cycle.html">Our Cycle</a>
+                     <a class="nav-link" href="cycle.jsp">Our Cycle</a>
                   </li>
                   <li class="nav-item">
-                     <a class="nav-link" href="shop.html">Shop</a>
+                     <a class="nav-link" href="shop.jsp">Shop</a>
                   </li>
                   <li class="nav-item">
-                     <a class="nav-link" href="news.html">News</a>
+                     <a class="nav-link" href="news.jsp">News</a>
                   </li>
                   <li class="nav-item">
-                     <a class="nav-link" href="contact.html">Contact Us</a>
+                     <a class="nav-link" href="contact.jsp">Contact Us</a>
                   </li>
                </ul>
                <form class="form-inline my-2 my-lg-0">
